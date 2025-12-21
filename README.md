@@ -2,12 +2,12 @@
 
 🎓 **Data Science (B.S.) student** at the University of Wisconsin–Madison  
 💻 Aspiring **Data Scientist/Machine Learning Engineer**  
-📊 Interested in **AI, data-driven systems, and real-world analytics**
+📊 Interested in AI, data-driven systems, and real-world analytics
 
 ---
 
 ## 🔍 About Me
-I’m a data science student with a strong foundation in **Python, statistics, and machine learning**, and a passion for applying AI to real-world problems. I enjoy building end-to-end projects from data preprocessing and modeling to evaluation and deployment, and I’m especially interested in **computer vision, predictive modeling, and AI agents**.
+I’m a data science student with a strong foundation in **Python, statistics, and machine learning**, and a passion for applying AI to real-world problems. I enjoy building end-to-end projects from data preprocessing and modeling to evaluation and deployment, and I’m especially interested in computer vision, predictive modeling, and AI agents.
 
 I come from a team-sports background, which influences how I approach collaboration, problem-solving, and continuous improvement in technical projects.
 
@@ -60,9 +60,9 @@ I come from a team-sports background, which influences how I approach collaborat
 ---
 
 ## 🎯 Goals
-- Secure an **internship or entry-level role** in data science or machine learning
-- Continue building **AI-driven, portfolio-ready projects**
-- Grow skills in **deep learning, computer vision, and AI systems**
+- Secure an internship or entry-level role in data science or machine learning
+- Continue building AI-driven, portfolio-ready projects
+- Grow skills in deep learning, computer vision, and AI systems
 
 ---
 
