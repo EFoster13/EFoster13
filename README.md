@@ -9,8 +9,6 @@ Interested in AI, data-driven systems, and real-world analytics
 ## About Me
 I’m a data science student with a passion for applying AI to real-world problems. I enjoy building end-to-end projects from data preprocessing and modeling to evaluation and deployment, and I’m especially interested in computer vision, predictive modeling, and AI agents.
 
-I come from a team-sports background, which influences how I approach collaboration, problem-solving, and continuous improvement in technical projects.
-
 ---
 
 ## Technical Skills
