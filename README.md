@@ -54,6 +54,10 @@ I’m a data science student with a passion for applying AI to real-world proble
 **Python · Streamlit · Pandas**
 - Built an interactive web application for analyzing NBA player statistics with CSV data processing, implementing data cleaning, filtering, and ranking algorithms using Pandas
 - Integrated data visualizations including bar charts and distribution histograms using Matplotlib to enable visual performance comparisons
+### Customer Churn Prediction & Retention Strategy
+**Python · Scikit-learn · Pandas · Seaborn **
+- Built customer churn prediction model achieving 84.6% ROC-AUC on 7,043 telecom customers, identifying high-risk segments through logistic regression feature importance analysis
+- Translated model insights into data-driven retention strategies with projected annual savings of $467K-$700K through targeted contract incentives and early customer intervention programs
 
 ---
 
