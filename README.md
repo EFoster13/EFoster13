@@ -50,14 +50,19 @@ I’m a data science student with a passion for applying AI to real-world proble
 - Built a deep learning pipeline to classify brain tumor MRI images
 - Achieved 96% accuracy after discovering and mitigating dataset bias through Grad-CAM analysis 
 - Applied advanced techniques including batch normalization, dropout regularization, early stopping, and differential learning rates to prevent overfitting
-### NBA Player Statistics Analyzer
-**Python · Streamlit · Pandas**
-- Built an interactive web application for analyzing NBA player statistics with CSV data processing, implementing data cleaning, filtering, and ranking algorithms using Pandas
-- Integrated data visualizations including bar charts and distribution histograms using Matplotlib to enable visual performance comparisons
+### Multi-Domain Sentiment Analysis 
+**Python · BERT · Transformers · Streamlit · Git LFS**
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reviewsentiment-analysis-nlp-tixfjdn7k526y8gjh3fzpu.streamlit.app/)
+- Engineered end-to-end NLP pipeline processing 30,000+ reviews across entertainment and hospitality domains, fine-tuning DistilBERT transformer to achieve 100% accuracy on cross-domain validation
+- Deployed production-ready sentiment classifier as interactive web application, enabling real-time analysis across movies, restaurants, and products with 98-99% prediction confidence
 ### Customer Churn Prediction & Retention Strategy
 **Python · Scikit-learn · Pandas · Seaborn**
 - Built customer churn prediction model achieving 84.6% ROC-AUC on 7,043 telecom customers, identifying high-risk segments through logistic regression feature importance analysis
 - Translated model insights into data-driven retention strategies with projected annual savings of $467K-$700K through targeted contract incentives and early customer intervention programs
+### NBA Player Statistics Analyzer
+**Python · Streamlit · Pandas**
+- Built an interactive web application for analyzing NBA player statistics with CSV data processing, implementing data cleaning, filtering, and ranking algorithms using Pandas
+- Integrated data visualizations including bar charts and distribution histograms using Matplotlib to enable visual performance comparisons
 
 ---
 
